@@ -1,0 +1,9 @@
+Dear {name},
+
+You`re invited to the [our event]
+join us to learn,share,and have fun with your friends.
+We can`t wait to see you there!
+
+
+best regards,
+{signature}
